@@ -16,4 +16,4 @@ O aplicativo contará com uma área administrativa através da qual os administr
 
 ##Contato
 - [linkedin](https://https://www.linkedin.com/in/andersonsoaresdospassos/)
--[and.passos20@gmail.com](mailto:and.passos20@gmail.com)
+- [and.passos20@gmail.com](mailto:and.passos20@gmail.com)
