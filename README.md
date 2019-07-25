@@ -15,5 +15,5 @@ Criar uma aplicação que agilize os atendimentos de para ***cardiorrespiratóri
 O aplicativo contará com uma área administrativa através da qual os administradores faram a gestão das informações.
 
 ##Contato
-- [linkedin](https://https://www.linkedin.com/in/andersonsoaresdospassos/)
+- [linkedin](https://www.linkedin.com/in/andersonsoaresdospassos/)
 - [and.passos20@gmail.com](mailto:and.passos20@gmail.com)
